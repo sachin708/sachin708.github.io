@@ -22,7 +22,7 @@ let resume2 = document.getElementById("resume-button-2").addEventListener("click
 
 function NewTab() {
   window.open(
-    "SachinMohite-FullStackWebDeveloper-IJrk.pdf",
+    "Sachin Mohite-FW28_099-Full Stack Web Developer (2).pdf",
     "_blank"
   );
 }
