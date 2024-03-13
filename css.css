@@ -178,13 +178,15 @@ body {
 }
 
 .home-image{
-  width: 50%;
+  width: 45%;
+ text-align: center;
 }
 
 .home-img{
   border-radius: 50%;
-   max-width: 65%;
+   max-width: 52%;
   width: 100%;
+ 
 }
 @keyframes floatImage {
   0% {
@@ -538,6 +540,7 @@ header .navbar {
   align-items: center;
   height: auto;
   /* padding-top: -200px; */
+  text-align: center;
 }
 
 
@@ -545,6 +548,8 @@ header .navbar {
   border-radius: 50%;
    max-width: 38%;
     margin: auto;
+    /* border: 1px solid red; */
+    margin-bottom: 7%;
 }
 
 .arrow {
